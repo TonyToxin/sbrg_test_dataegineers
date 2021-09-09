@@ -37,7 +37,7 @@
 	"event_id": "f5aeb53e98294b02b78d7dd0b268a12errrr",
 	"event": 108,
 	"user_info":{"user_type":"payer", "first_pay_date":"2021-08-24T09:45:00.971Z"},
-	"battery_level_network": [100, "wifi"]
+	"battery_level_network": [100, "wifi"],
 	"platform": "android",
 	"first_launch": "False"
 }
